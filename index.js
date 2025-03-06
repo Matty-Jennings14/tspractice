@@ -1,3 +1,3 @@
 "use strict";
-const test = "Goodbye World!";
+const test = "testing multiple commit!";
 console.log(test);

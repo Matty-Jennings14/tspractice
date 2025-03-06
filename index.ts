@@ -1,3 +1,3 @@
-const test = "testing pull and push!";
+const test = "testing multiple commit!";
 
 console.log(test);
